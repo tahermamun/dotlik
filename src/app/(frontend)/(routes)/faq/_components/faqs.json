@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "question": "What are your two primary services?",
+        "answer": "Fully Managed IT Services – DotLit it monitors, manages, supports, and secures all IT systems and users for a fixed and predictable monthly fee. Co-Managed IT Services – We support internal IT as an extension of your team, This role includes patching, repetitive tasks, one-off services, and special projects. We handle the backend while in-house IT manages everything else."
+    },
+    {
+        "id": 2,
+        "question": "What other services do you offer?",
+        "answer": [
+            "Cybersecurity",
+            "IT Consulting",
+            "Cloud Services",
+            "Network Connectivity (ISP Services)"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What business problems do you solve?",
+        "answer": "By leading with IT strategy and compliance guidance, DotLit it fills two major gaps in the IT provider industry. This expertise helps clients:",
+        "point": [
+            "Save time, money, and increase profitability.",
+            "Reduce employee frustration and improve team morale.",
+            "Solidify defenses against data breaches, ransomware attacks, and legal exposure.",
+            "Lower cybersecurity and compliance risks."
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What are your core services?",
+        "answer": "Core Services are fixed, baseline foundational resources included in every Fully Managed IT Service Level Agreement.",
+        "point": [
+            "vCIO – Strategic direction, budgeting, planning, and consulting services with account reviews and IT roadmaps to advance your digital transformation.Managed Services Concierge – Your point of contact for all account details. This trusted advisor is the quarterback between your vCIO and the service team, managing questions about IT services, invoices, and every piece of business enabling technology that supports decision making, collaboration, productivity, compliance, business continuity, security, and efficiency.",
+            "Client Management Tools – Professional Services Automation, Ticketing, CRM, Remote Management and Monitoring, Documentation, Communication, Notification, and Data Privacy.",
+            "Vendor Technical Assistance – We interact directly with your other technology vendors for incident remediation, opening tickets, escalating requests, or working to resolve incidents within your IT environment.",
+            "This assistance covers hardware manufacturers, software development firms, cloud service providers, ISPs, telecommunication brokers, printer and copier companies, and local couriers.",
+            "Procurement Services – DotLit it sources products exclusively from authorized channels and recommends business-class solutions. We also identify configuration options, ensure proper registration, manage licensing and warranties, and guarantee that all products are genuine.",
+            "Network Management – Monitoring, Administration, Reporting, Domain Name, and SSL Certificate Management, Remote Incident Remediation, and On-site Incident Remediation."
+        ]
+    },
+    {
+        "id": 5,
+        "question": "How are you different?",
+        "answer": "DotLit it selectively partners with growing organizations that like applying strategy and budgets to a proven IT process based on standards and best practices – to improve performance and lower risk. DotLit it creates and maintains powerful, quiet, and secure IT systems by actively engaging and advising our clients in regularly scheduled Strategic Business Reviews with a vCIO. Most DotLit it locations limit new client onboardings to two per month. This approach allows us to institute comprehensive, data-driven quality controls – on the front end – which create increasing operating leverage for our clients throughout the lifetime of the relationship."
+    },
+    {
+        "id": 6,
+        "question": "How do you maximize responsiveness?",
+        "answer": "Тecnologia is responsive by design. We partner with organizations that appreciate the value of following a standards-based approach to inform the architecture and lifecycle management of their IT systems. This alignment allows clients to enjoy business optimizing technology that doesn’t require constant, reactive, emergency intervention – so they have more time to focus on growing their business. We give users direct access to support, which eliminates bottlenecks and allows us to collect data and insights to identify training gaps and recommend system improvements. Our Service Level Agreement prioritizes client matters and response times by P1, P2, P3, and P4. A significant server or cloud application outage is a P1. Assisting with a password reset is a P4. Good news: we can set you up with a self-serve password solution, so you don’t have to open a ticket. The outcome is similar to the concept of compound interest. When you invest in the process over time, both quality of service and responsiveness accrue. Failure to invest (or starting late) makes it impossible to catch up."
+    },
+    {
+        "id": 7,
+        "question": "What is your industry focus?",
+        "answer": "Operationally mature organizations in the following verticals:",
+        "point": [
+            "Professional",
+            "ServicesCPA",
+            "Legal",
+            "Finance",
+            "Insurance",
+            "Real Estate",
+            "Consulting",
+            "Manufacturing",
+            "Healthcare",
+            "Nonprofit"
+        ]
+    }
+]

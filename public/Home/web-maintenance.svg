@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Website Maintenance Icon</title>
+    <g id="website-maintenance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,2 H20 A2,2 0 0 1 22,4 V16 A2,2 0 0 1 20,18 H4 A2,2 0 0 1 2,16 V4 A2,2 0 0 1 4,2 Z" stroke="#000000" stroke-width="2"/>
+        <line x1="2" y1="7" x2="22" y2="7" stroke="#000000" stroke-width="2"/>
+        <circle cx="5" cy="4.5" r="1" fill="#000000"/>
+        <circle cx="9" cy="4.5" r="1" fill="#000000"/>
+        <path d="M15,11 L21,17 M21,11 L15,17" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+        <path d="M9,22 L15,22" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+        <path d="M12,18 L12,22" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+    </g>
+</svg>

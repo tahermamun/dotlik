@@ -1,0 +1,13 @@
+.scroll-down {
+    .navgation__bar {
+        transform: translate3d(0, -100%, 0);
+        transition: 0.3s ease;
+    }
+}
+.scroll-up {
+    .navgation__bar {
+        // transform: translate3d(0, -100%, 0);
+        transition: 0.3s ease;
+        background: #000;
+    }
+}
